@@ -1,0 +1,801 @@
+customer_id,full_name,segment,city,country,status
+C00001     , Angela Ross            , Corporate, Lake Erikaton          , USA    , Active
+C00002     , Robert Davis           , Retail   , Olsonberg              , USA    , Active
+C00003     , Jody Pitts             , Retail   , Dianamouth             , USA    , Active
+C00004     , Christopher Simmons    , Retail   , Robertotown            , USA    , Active
+C00005     , Elizabeth Barnett      , Retail   , Gomezton               , USA    , Active
+C00006     , Barbara Lang           , Retail   , Barrbury               , USA    , Active
+C00007     , Toni Wolf              , Retail   , Figueroaport           , USA    , Active
+C00008     , Sharon Parker          , Retail   , Smithmouth             , USA    , Active
+C00009     , Mary Wood              , Retail   , Ramosport              , USA    , Active
+C00010     , Crystal Miller         , Retail   , North Loriview         , USA    , Active
+C00011     , John Henson            , Retail   , Jenniferchester        , USA    , Active
+C00012     , Amber Barnes           , Retail   , Evansburgh             , USA    , Active
+C00013     , Tiffany Cruz           , Corporate, South Lorimouth        , USA    , Active
+C00014     , Krista Garcia          , Retail   , South Robert           , USA    , Active
+C00015     , Johnny Jones           , Corporate, West Jamieton          , USA    , Active
+C00016     , James Brown            , Retail   , Lake Andrew            , USA    , Active
+C00017     , Steven Roman           , Corporate, Melissamouth           , USA    , Active
+C00018     , Alison Simpson         , Retail   , Brittneybury           , USA    , Active
+C00019     , Kevin Martin           , Wholesale, South Suzanneport      , USA    , Active
+C00020     , Edward Beard           , Retail   , Lake Kathryn           , USA    , Active
+C00021     , Travis Reyes           , Retail   , Laurenburgh            , USA    , Inactive
+C00022     , Sherry Willis          , Corporate, East Shaneborough      , USA    , Active
+C00023     , Mr. Charles Donovan    , Retail   , North Harry            , USA    , Active
+C00024     , Diane Fisher           , Retail   , Natashaview            , USA    , Active
+C00025     , Robert Richmond        , Retail   , Cassandraton           , USA    , Active
+C00026     , Michael Turner         , Retail   , North Lindseyshire     , USA    , Active
+C00027     , Reginald Parker        , Retail   , Brandistad             , USA    , Active
+C00028     , Meghan Estrada         , Retail   , Port Mitchell          , USA    , Active
+C00029     , Dorothy Chapman        , Corporate, West Kimberly          , USA    , Active
+C00030     , Shane Barrett          , Retail   , Port Lisa              , USA    , Active
+C00031     , Patrick Murray         , Retail   , Wolfechester           , USA    , Active
+C00032     , James Aguilar          , Retail   , Port Brenda            , USA    , Active
+C00033     , Dr. Teresa Love        , Retail   , Port Martinstad        , USA    , Active
+C00034     , Cody Faulkner          , Retail   , South Christopher      , USA    , Active
+C00035     , Nicholas Oliver        , Corporate, Rebeccaside            , USA    , Inactive
+C00036     , Leah Hartman           , Retail   , Port James             , USA    , Active
+C00037     , Patricia Morris        , Retail   , Cruzshire              , USA    , Active
+C00038     , Stephen Ramos          , Retail   , Lauraville             , USA    , Active
+C00039     , Jeffrey Baxter         , Retail   , West Fernandoton       , USA    , Active
+C00040     , Alexander Howard       , Corporate, Brendamouth            , USA    , Active
+C00041     , Leonard Mosley         , Retail   , Shawhaven              , USA    , Active
+C00042     , Seth Hensley           , Retail   , East Ashleymouth       , USA    , Active
+C00043     , Dr. Christopher Perez  , Wholesale, Richardsonstad         , USA    , Active
+C00044     , Michael Martinez       , Retail   , Littlefort             , USA    , Active
+C00045     , Kristin Steele         , Wholesale, Lake Valerieburgh      , USA    , Active
+C00046     , Derrick Moore          , Retail   , North Robin            , USA    , Active
+C00047     , Cynthia Bush           , Corporate, Robertsonshire         , USA    , Active
+C00048     , Christine Anderson     , Retail   , New Aaronville         , USA    , Active
+C00049     , Jeremy Hernandez Jr.   , Corporate, East Emma              , USA    , Active
+C00050     , Mitchell Walker        , Retail   , Merrittview            , USA    , Active
+C00051     , Terri Frazier          , Retail   , East Andre             , USA    , Inactive
+C00052     , Lee Aguirre            , Retail   , Watsonland             , USA    , Active
+C00053     , Kevin Edwards          , Corporate, Lake Williammouth      , USA    , Active
+C00054     , Brenda Young           , Corporate, Ayersmouth             , USA    , Active
+C00055     , Rachel Hall            , Corporate, West Danieltown        , USA    , Active
+C00056     , Jonathan Trevino       , Retail   , New Savannah           , USA    , Active
+C00057     , Chris Chang            , Corporate, West Hannah            , USA    , Active
+C00058     , Janet Hill             , Retail   , Johnville              , USA    , Active
+C00059     , Paul Smith             , Retail   , Rossborough            , USA    , Active
+C00060     , Andrea Wilson          , Retail   , Calderonberg           , USA    , Inactive
+C00061     , Ryan Ramirez           , Corporate, Matthewmouth           , USA    , Active
+C00062     , Douglas Leblanc        , Retail   , New Mariaborough       , USA    , Active
+C00063     , Zachary Lee            , Retail   , Richardsstad           , USA    , Active
+C00064     , Justin Hammond         , Corporate, Stephenston            , USA    , Active
+C00065     , Ryan Edwards           , Retail   , Vasquezshire           , USA    , Active
+C00066     , Ralph Carrillo         , Retail   , New Donald             , USA    , Active
+C00067     , Stefanie Lewis         , Retail   , Port Christine         , USA    , Inactive
+C00068     , Sheila Price           , Retail   , Lake Joshuastad        , USA    , Active
+C00069     , James Rosales          , Retail   , Muellerchester         , USA    , Active
+C00070     , Carol Williams         , Retail   , Nancyfort              , USA    , Inactive
+C00071     , Jennifer Todd          , Retail   , North Brittany         , USA    , Active
+C00072     , Jon Shaw               , Retail   , South Miguel           , USA    , Active
+C00073     , Sarah Simpson          , Retail   , Hillmouth              , USA    , Active
+C00074     , Yesenia Collins        , Corporate, North Aaronberg        , USA    , Active
+C00075     , Michael Reid           , Retail   , Port Danastad          , USA    , Active
+C00076     , Andrew Riley           , Retail   , Hardyburgh             , USA    , Active
+C00077     , Danielle Hart          , Retail   , West Manuelbury        , USA    , Active
+C00078     , Raymond Santiago       , Retail   , Mackmouth              , USA    , Active
+C00079     , Jason Dominguez        , Retail   , East Lori              , USA    , Inactive
+C00080     , Angel Carter           , Corporate, Aaronhaven             , USA    , Active
+C00081     , Spencer Thompson       , Retail   , Mooreberg              , USA    , Inactive
+C00082     , Mark Hall              , Retail   , Catherineview          , USA    , Active
+C00083     , Michael Snyder         , Retail   , Buchananmouth          , USA    , Active
+C00084     , Tanya Richardson       , Retail   , Jasonburgh             , USA    , Active
+C00085     , Bryan Warren           , Wholesale, Hendersonstad          , USA    , Active
+C00086     , Michael Morales        , Retail   , Ramirezfort            , USA    , Active
+C00087     , Lisa Martin            , Retail   , Port Melissashire      , USA    , Active
+C00088     , Russell Stokes         , Retail   , New Nathanielland      , USA    , Active
+C00089     , Troy Thomas            , Retail   , North Andrewshire      , USA    , Active
+C00090     , Shannon Wiggins        , Corporate, Myersview              , USA    , Inactive
+C00091     , Kelly Mahoney DDS      , Retail   , East Brandon           , USA    , Active
+C00092     , Steve Thompson         , Corporate, Clarkemouth            , USA    , Active
+C00093     , Bridget Phillips       , Retail   , West Carlamouth        , USA    , Active
+C00094     , Melinda Torres         , Corporate, Port Lorichester       , USA    , Active
+C00095     , Michael Adams          , Retail   , Richardsonport         , USA    , Active
+C00096     , Michael Gallagher      , Retail   , Waltersville           , USA    , Active
+C00097     , James Cochran          , Corporate, East Jennifer          , USA    , Inactive
+C00098     , Joshua Johnson         , Wholesale, Thompsonborough        , USA    , Active
+C00099     , Justin Thompson        , Corporate, East Alex              , USA    , Inactive
+C00100     , Amy Kelly              , Retail   , North Brian            , USA    , Active
+C00101     , Carrie Cox             , Wholesale, Jacksonmouth           , USA    , Active
+C00102     , Pamela Morales         , Retail   , Lake Nina              , USA    , Active
+C00103     , Jeremiah Riley         , Wholesale, East Johnside          , USA    , Active
+C00104     , Rebecca Contreras      , Retail   , Lake Amystad           , USA    , Active
+C00105     , Hannah Lopez           , Corporate, Port William           , USA    , Active
+C00106     , Travis Freeman         , Corporate, New Robertburgh        , USA    , Active
+C00107     , Blake Johnston         , Corporate, Kelseyborough          , USA    , Active
+C00108     , Tracy Wilson           , Retail   , Figueroastad           , USA    , Active
+C00109     , Alicia Simmons         , Retail   , Mooretown              , USA    , Active
+C00110     , Gary Smith             , Corporate, Pearsonbury            , USA    , Active
+C00111     , Jacob Mcdonald         , Retail   , Michelleland           , USA    , Active
+C00112     , Patrick Briggs         , Wholesale, Susanmouth             , USA    , Active
+C00113     , Kevin Brown            , Corporate, Danielland             , USA    , Active
+C00114     , Michelle Randall       , Retail   , Kristafurt             , USA    , Active
+C00115     , Kristin Lawrence       , Corporate, Penaport               , USA    , Active
+C00116     , Jason Lee              , Retail   , New Scott              , USA    , Active
+C00117     , Christopher Thomas     , Corporate, Lake Chelseaborough    , USA    , Active
+C00118     , Stephanie Beck         , Corporate, Allenview              , USA    , Active
+C00119     , Leah Sellers           , Retail   , Michellefurt           , USA    , Active
+C00120     , Michael Morton         , Retail   , East Eugene            , USA    , Active
+C00121     , Donald Stone           , Wholesale, Lesliefurt             , USA    , Active
+C00122     , Alec Osborne           , Retail   , New Levi               , USA    , Inactive
+C00123     , Olivia Miles           , Retail   , South Stephen          , USA    , Active
+C00124     , Rachel Shields         , Retail   , Port Jennifer          , USA    , Inactive
+C00125     , Shane Hernandez        , Retail   , East Sydney            , USA    , Active
+C00126     , Bryan Bright           , Retail   , South Heather          , USA    , Active
+C00127     , Jennifer Foster        , Retail   , Lake Mathewton         , USA    , Active
+C00128     , Selena Scott           , Retail   , Gallagherside          , USA    , Active
+C00129     , Jeremy Gonzalez        , Corporate, Tylerville             , USA    , Active
+C00130     , Charles Dean           , Retail   , Fuentesbury            , USA    , Active
+C00131     , Tricia Davis           , Retail   , Jasonbury              , USA    , Active
+C00132     , Gloria Gay             , Retail   , West Jessica           , USA    , Active
+C00133     , Timothy Ward           , Retail   , Foxbury                , USA    , Active
+C00134     , Jacqueline Walker      , Retail   , North Toddstad         , USA    , Active
+C00135     , Daniel Mendez          , Retail   , Emilychester           , USA    , Active
+C00136     , John Pace              , Corporate, Jessicaville           , USA    , Active
+C00137     , Brandy Lewis           , Retail   , Christineport          , USA    , Active
+C00138     , Jacqueline Alvarado    , Corporate, New Kevin              , USA    , Active
+C00139     , Jessica Smith          , Corporate, Port Courtney          , USA    , Active
+C00140     , Tammy Anderson         , Retail   , New Alexland           , USA    , Inactive
+C00141     , Donald Webster         , Wholesale, Coltonfort             , USA    , Active
+C00142     , Shawn Alexander        , Wholesale, West Diana             , USA    , Active
+C00143     , Melissa Smith          , Retail   , East Stephenport       , USA    , Active
+C00144     , Bailey Brewer          , Retail   , East Christopherborough, USA    , Active
+C00145     , Kyle Miller            , Wholesale, Grayview               , USA    , Active
+C00146     , Mary Nixon             , Corporate, North Tonyland         , USA    , Active
+C00147     , Cody Meyers            , Retail   , Brandonborough         , USA    , Active
+C00148     , Sierra Padilla         , Corporate, New Crystal            , USA    , Active
+C00149     , Anna Leonard           , Corporate, South Chelseyfort      , USA    , Active
+C00150     , Stephanie Larsen       , Corporate, Markmouth              , USA    , Inactive
+C00151     , Donna Garcia           , Corporate, Angelmouth             , USA    , Active
+C00152     , Richard Monroe         , Corporate, South Michael          , USA    , Active
+C00153     , Casey Burgess          , Retail   , East Markside          , USA    , Active
+C00154     , Jason Novak            , Retail   , North Richard          , USA    , Active
+C00155     , Brandi Sanchez         , Retail   , Port Toniview          , USA    , Active
+C00156     , Alyssa Hernandez       , Wholesale, North Kaitlyn          , USA    , Inactive
+C00157     , Kevin Martinez         , Retail   , Ramirezview            , USA    , Active
+C00158     , Ryan Knight            , Retail   , South Nicole           , USA    , Active
+C00159     , Elizabeth Lopez        , Corporate, Birdchester            , USA    , Active
+C00160     , Theresa Hamilton       , Retail   , Lake Benjamin          , USA    , Active
+C00161     , Daniel Munoz           , Corporate, New Amberland          , USA    , Active
+C00162     , Julia Gray             , Corporate, Port Shanebury         , USA    , Active
+C00163     , Susan Ross             , Retail   , Jonesland              , USA    , Active
+C00164     , Michelle Sandoval      , Retail   , Nicolefort             , USA    , Active
+C00165     , Kristina Martin        , Retail   , East Matthewmouth      , USA    , Active
+C00166     , Sherry Perry           , Retail   , Riverafurt             , USA    , Inactive
+C00167     , Ralph Jackson          , Retail   , Martinstad             , USA    , Active
+C00168     , Donna Bates            , Retail   , Port Frederickberg     , USA    , Active
+C00169     , Linda Clark            , Retail   , Kellymouth             , USA    , Active
+C00170     , Sarah Rodgers          , Retail   , Port Ericton           , USA    , Active
+C00171     , Christopher Wang       , Retail   , Hobbsstad              , USA    , Active
+C00172     , Christine Davis        , Retail   , Ellisport              , USA    , Active
+C00173     , Elizabeth Jimenez      , Retail   , Johnton                , USA    , Active
+C00174     , Paige Thomas           , Retail   , New Brianna            , USA    , Active
+C00175     , Suzanne Bailey         , Corporate, Davidshire             , USA    , Active
+C00176     , Jacqueline Kennedy     , Corporate, North Pamelachester    , USA    , Active
+C00177     , Michele Castro         , Retail   , Williamsside           , USA    , Active
+C00178     , Andrew Clark           , Corporate, Ruthtown               , USA    , Active
+C00179     , Dr. Tyler Washington MD, Retail   , Port Emilyville        , USA    , Active
+C00180     , Stephanie Cain         , Corporate, Kristopherbury         , USA    , Active
+C00181     , Gene Sanchez           , Retail   , Heathermouth           , USA    , Inactive
+C00182     , Denise Miller          , Wholesale, New Leslie             , USA    , Active
+C00183     , Kathryn Thompson       , Corporate, New Elizabeth          , USA    , Active
+C00184     , Denise House           , Corporate, New Teresa             , USA    , Active
+C00185     , Dana Wallace           , Corporate, Brookechester          , USA    , Active
+C00186     , Terri Moore DVM        , Retail   , Hooverburgh            , USA    , Active
+C00187     , Christopher Malone     , Retail   , Lesliestad             , USA    , Active
+C00188     , Heather Rodriguez      , Corporate, New William            , USA    , Active
+C00189     , Jason Miller           , Retail   , Colonmouth             , USA    , Active
+C00190     , Haley Farrell MD       , Corporate, Reillyview             , USA    , Active
+C00191     , Taylor Skinner         , Retail   , East Lori              , USA    , Active
+C00192     , Valerie Garcia         , Retail   , South Stephenmouth     , USA    , Active
+C00193     , Phillip Holloway       , Retail   , Brownchester           , USA    , Active
+C00194     , Frank Bradford         , Retail   , Cookville              , USA    , Active
+C00195     , Aimee Peterson         , Retail   , Greenview              , USA    , Active
+C00196     , Tina Thompson          , Retail   , Smithside              , USA    , Active
+C00197     , Daniel Hamilton        , Retail   , Aaronland              , USA    , Active
+C00198     , Debra Patterson        , Retail   , New Davidfort          , USA    , Active
+C00199     , Karen Williams         , Retail   , New Danachester        , USA    , Active
+C00200     , Thomas Perez           , Corporate, Taylorburgh            , USA    , Active
+C00201     , Katherine Carlson      , Retail   , New Kendra             , USA    , Active
+C00202     , Brittany Grant         , Retail   , Lake Veronica          , USA    , Active
+C00203     , Erica Randolph         , Retail   , East Richardstad       , USA    , Active
+C00204     , Ethan Leonard          , Corporate, Port Christopherburgh  , USA    , Active
+C00205     , Evan Hess              , Retail   , Tinaside               , USA    , Active
+C00206     , Melissa Vaughan        , Corporate, New Craig              , USA    , Active
+C00207     , Ellen Gomez            , Wholesale, Hortonport             , USA    , Active
+C00208     , Lindsey Kelly          , Retail   , Port Steventown        , USA    , Active
+C00209     , Emily Kennedy          , Retail   , Ramosport              , USA    , Active
+C00210     , Joseph Winters         , Retail   , Richville              , USA    , Active
+C00211     , Cheryl Freeman         , Retail   , Port Linda             , USA    , Active
+C00212     , Harold Andrews         , Retail   , South Desireemouth     , USA    , Active
+C00213     , Pamela Le              , Wholesale, Port Sarastad          , USA    , Active
+C00214     , Brandon Valencia       , Retail   , South Jackson          , USA    , Active
+C00215     , Brent Rivera           , Retail   , Nicoleshire            , USA    , Active
+C00216     , Phillip Vega           , Retail   , Anitaborough           , USA    , Active
+C00217     , Anna Adams             , Corporate, Calhounborough         , USA    , Active
+C00218     , Michael Carter         , Retail   , Tylerborough           , USA    , Inactive
+C00219     , Jodi Freeman           , Retail   , Port Pamelashire       , USA    , Active
+C00220     , David Stevens          , Wholesale, North Samanthafort     , USA    , Active
+C00221     , Sarah Whitehead        , Corporate, New Samueltown         , USA    , Active
+C00222     , Kayla Valdez           , Retail   , Foleyshire             , USA    , Active
+C00223     , Christopher Griffith   , Corporate, Jacksonstad            , USA    , Active
+C00224     , Shawn Williams         , Corporate, Bakerhaven             , USA    , Active
+C00225     , Janet Blake            , Retail   , South Angela           , USA    , Active
+C00226     , Elizabeth Davenport    , Retail   , Donaldstad             , USA    , Active
+C00227     , Veronica Woodard       , Retail   , Lake Dylanmouth        , USA    , Active
+C00228     , Calvin Freeman         , Retail   , Perezchester           , USA    , Active
+C00229     , Deanna Merritt         , Corporate, Montoyaland            , USA    , Active
+C00230     , Nicholas Brock         , Wholesale, Port Caitlinfort       , USA    , Active
+C00231     , Caleb Howard           , Retail   , Port Abigailchester    , USA    , Active
+C00232     , David Scott            , Retail   , Port Alan              , USA    , Active
+C00233     , David Miranda          , Retail   , Singhhaven             , USA    , Active
+C00234     , David Dunn             , Retail   , Priceberg              , USA    , Active
+C00235     , Ashley Bender          , Corporate, East Trevorland        , USA    , Active
+C00236     , William Trujillo       , Retail   , North Johnborough      , USA    , Active
+C00237     , Stephanie Smith        , Retail   , New Katherine          , USA    , Active
+C00238     , Nicholas Thomas        , Retail   , Timothymouth           , USA    , Active
+C00239     , Michael Wong           , Retail   , South Angelaview       , USA    , Active
+C00240     , Jesse Holt             , Retail   , Mccallmouth            , USA    , Active
+C00241     , Heather Rocha          , Corporate, Raymondside            , USA    , Inactive
+C00242     , Leonard Johnson        , Retail   , South Micheal          , USA    , Active
+C00243     , Eric Nguyen            , Corporate, New Kathyhaven         , USA    , Active
+C00244     , John Reyes             , Retail   , South Andrew           , USA    , Active
+C00245     , Natasha Saunders       , Retail   , West Alicia            , USA    , Active
+C00246     , Danielle Lee           , Retail   , Lake Jeffrey           , USA    , Inactive
+C00247     , Erin Livingston        , Corporate, Haydenchester          , USA    , Active
+C00248     , Michelle Poole         , Wholesale, New Stephanieside      , USA    , Active
+C00249     , Jeanne Jones           , Retail   , East Feliciafurt       , USA    , Active
+C00250     , Rachel Hernandez       , Retail   , North Jeffrey          , USA    , Active
+C00251     , Rachel Knight          , Wholesale, Collinshaven           , USA    , Active
+C00252     , Jonathan Lee           , Retail   , Jermainetown           , USA    , Active
+C00253     , Jessica White          , Retail   , New Donna              , USA    , Active
+C00254     , Todd Holmes            , Wholesale, South Amberside        , USA    , Active
+C00255     , Tanner Delgado         , Retail   , Smithview              , USA    , Inactive
+C00256     , Glenn Villarreal       , Retail   , Donnachester           , USA    , Active
+C00257     , Kylie Davis            , Retail   , Derekstad              , USA    , Active
+C00258     , Michael Barnes         , Retail   , Judyside               , USA    , Active
+C00259     , Bradley Hancock        , Retail   , Mcdonaldburgh          , USA    , Inactive
+C00260     , Jason Berry            , Corporate, Valentinehaven         , USA    , Active
+C00261     , Robert Church          , Retail   , New Sydney             , USA    , Active
+C00262     , Mrs. Dana Young        , Retail   , Wendyburgh             , USA    , Active
+C00263     , Alice Yu               , Retail   , Jeffreyside            , USA    , Active
+C00264     , Annette Oconnor        , Retail   , West Theresa           , USA    , Active
+C00265     , Luke Ortiz             , Wholesale, West Josephchester     , USA    , Active
+C00266     , Shawn Sanchez          , Retail   , South Karenshire       , USA    , Active
+C00267     , Steven Mcdaniel        , Retail   , South Traceyhaven      , USA    , Active
+C00268     , Amy Hodges             , Corporate, Lake Henryview         , USA    , Active
+C00269     , Robert Best            , Retail   , Mooretown              , USA    , Active
+C00270     , Rachel Mann            , Retail   , North Gerald           , USA    , Active
+C00271     , Jeffery Spencer PhD    , Retail   , Benjaminport           , USA    , Active
+C00272     , Juan Thornton          , Retail   , South Tannerside       , USA    , Active
+C00273     , Jay Ortiz              , Retail   , Watersside             , USA    , Active
+C00274     , Hannah Cervantes       , Retail   , New Katherineville     , USA    , Active
+C00275     , Emma Jackson           , Corporate, East Gabriel           , USA    , Active
+C00276     , Francisco Williams     , Retail   , Lanehaven              , USA    , Active
+C00277     , Richard Valdez         , Retail   , Farrellhaven           , USA    , Active
+C00278     , Kristin Stevens        , Retail   , Michaelstad            , USA    , Active
+C00279     , Sheryl Dean            , Retail   , New Crystalville       , USA    , Active
+C00280     , Douglas Walton         , Corporate, Fowlerbury             , USA    , Active
+C00281     , Zachary Riggs          , Retail   , Dixonburgh             , USA    , Active
+C00282     , Tyler Alvarado         , Retail   , North John             , USA    , Inactive
+C00283     , Joseph Jensen          , Corporate, Jonathanmouth          , USA    , Active
+C00284     , Samantha Delgado       , Retail   , East Kevin             , USA    , Active
+C00285     , Jasmine Smith DDS      , Retail   , Port Leslie            , USA    , Active
+C00286     , Kathleen Hubbard       , Retail   , Codyfort               , USA    , Active
+C00287     , Reginald Bennett       , Retail   , Lisafort               , USA    , Active
+C00288     , Brittany Moore         , Corporate, Antoniofurt            , USA    , Active
+C00289     , Lucas Alexander        , Retail   , Port Lorimouth         , USA    , Active
+C00290     , Katherine Miller       , Retail   , New Patty              , USA    , Active
+C00291     , Katie Curtis           , Retail   , Lake Adam              , USA    , Active
+C00292     , Brian George           , Corporate, Randallville           , USA    , Active
+C00293     , Daniel Flynn           , Retail   , Jacobland              , USA    , Active
+C00294     , Jason Richardson       , Corporate, Lake Scott             , USA    , Active
+C00295     , Frank Freeman          , Retail   , Williamville           , USA    , Active
+C00296     , Curtis Salazar         , Corporate, South Gregory          , USA    , Active
+C00297     , Edwin Mckay            , Wholesale, Grayburgh              , USA    , Active
+C00298     , Andrew Coffey          , Corporate, Meadowsfort            , USA    , Active
+C00299     , Natalie Clark          , Corporate, New Amandaberg         , USA    , Active
+C00300     , Joshua Beck            , Retail   , Pierceton              , USA    , Active
+C00301     , Jodi Olson             , Retail   , North Lauren           , USA    , Active
+C00302     , Caleb Terry            , Retail   , Lake Elizabethmouth    , USA    , Active
+C00303     , Kristina Elliott       , Retail   , Schultzton             , USA    , Inactive
+C00304     , Lisa Jenkins           , Retail   , Lake Thomasside        , USA    , Active
+C00305     , Michele Elliott        , Retail   , Terryview              , USA    , Inactive
+C00306     , Jonathon Hunt          , Retail   , East Douglasberg       , USA    , Active
+C00307     , Christopher Mccormick  , Retail   , Harrisonchester        , USA    , Active
+C00308     , Dr. Brittany Jackson   , Corporate, West Stephaniebury     , USA    , Active
+C00309     , Jason Nelson           , Retail   , South Danielmouth      , USA    , Active
+C00310     , Melissa Mendoza        , Corporate, Bowerstown             , USA    , Active
+C00311     , Julia Gonzalez         , Corporate, West Kristinside       , USA    , Active
+C00312     , Veronica Pena          , Wholesale, South Joshuaborough    , USA    , Active
+C00313     , Victor Cruz            , Retail   , Barnesbury             , USA    , Active
+C00314     , Kevin Marshall         , Corporate, South Richardmouth     , USA    , Inactive
+C00315     , Whitney Moses          , Wholesale, Mccallland             , USA    , Active
+C00316     , Richard Maynard        , Wholesale, West Holly             , USA    , Active
+C00317     , Jaclyn Irwin           , Retail   , Davidchester           , USA    , Active
+C00318     , Caleb Barker           , Retail   , Rodgersshire           , USA    , Active
+C00319     , Alec Andrews           , Retail   , New Angelafort         , USA    , Active
+C00320     , Sandra Smith           , Retail   , Port Holly             , USA    , Active
+C00321     , Margaret Miller        , Retail   , South Jeffreyhaven     , USA    , Active
+C00322     , Jon Wong               , Corporate, Hesschester            , USA    , Active
+C00323     , Alexis Morris          , Corporate, Rayberg                , USA    , Active
+C00324     , Mr. Daniel Moore       , Retail   , Davidshire             , USA    , Active
+C00325     , Robert Torres          , Corporate, South Krista           , USA    , Inactive
+C00326     , Mindy Nash             , Retail   , South Emily            , USA    , Active
+C00327     , Megan Leach            , Corporate, Autumnfort             , USA    , Active
+C00328     , Dennis Miller          , Wholesale, Fitzgeraldchester      , USA    , Active
+C00329     , Linda Landry           , Retail   , Kellymouth             , USA    , Active
+C00330     , Lucas Robles           , Retail   , Donovanland            , USA    , Active
+C00331     , Christine Graham       , Corporate, Franklinborough        , USA    , Active
+C00332     , Dr. Donna Brown        , Retail   , North Mark             , USA    , Active
+C00333     , Valerie King           , Retail   , Richhaven              , USA    , Active
+C00334     , Brandi White           , Corporate, Warrenfort             , USA    , Active
+C00335     , Kelsey Oconnell        , Retail   , Jamesfurt              , USA    , Active
+C00336     , Christopher Hanna      , Corporate, Katherineshire         , USA    , Active
+C00337     , Cynthia Lambert        , Retail   , South Ryan             , USA    , Active
+C00338     , Douglas Carlson        , Corporate, Douglasmouth           , USA    , Active
+C00339     , Karen Hall             , Retail   , New Molly              , USA    , Active
+C00340     , Johnathan Perez        , Wholesale, Wongberg               , USA    , Active
+C00341     , Melody Martinez        , Corporate, Zacharyberg            , USA    , Active
+C00342     , Joanna Wise            , Retail   , West Bradleyton        , USA    , Active
+C00343     , Katrina Green          , Retail   , New Kevinborough       , USA    , Active
+C00344     , Lindsey Murphy         , Wholesale, Gregoryberg            , USA    , Active
+C00345     , Joseph Vaughn          , Retail   , South Melissamouth     , USA    , Active
+C00346     , Dwayne Black           , Retail   , South Angelicamouth    , USA    , Active
+C00347     , Sharon Haas            , Retail   , West Matthewbury       , USA    , Active
+C00348     , Kelly Ellison          , Retail   , Port Richard           , USA    , Active
+C00349     , Jason Scott            , Corporate, New Victorhaven        , USA    , Active
+C00350     , Michael Smith          , Corporate, Powellton              , USA    , Active
+C00351     , Michelle Hess          , Retail   , North Kristenburgh     , USA    , Active
+C00352     , Renee Whitehead        , Retail   , South Robertfurt       , USA    , Active
+C00353     , Dominique Wilcox DDS   , Retail   , Wellsland              , USA    , Active
+C00354     , Candace Campos         , Retail   , East Elizabethmouth    , USA    , Active
+C00355     , Joshua Underwood       , Retail   , South Patrickland      , USA    , Active
+C00356     , Gail Hutchinson        , Wholesale, Deckermouth            , USA    , Active
+C00357     , Patricia Patterson     , Corporate, East Paula             , USA    , Active
+C00358     , Kara Morales           , Corporate, Debraport              , USA    , Active
+C00359     , Timothy Case           , Corporate, South Jose             , USA    , Active
+C00360     , Ryan Miller            , Retail   , South Kimberly         , USA    , Active
+C00361     , Sarah Osborne          , Corporate, Larryburgh             , USA    , Active
+C00362     , Timothy Nelson         , Retail   , North Troystad         , USA    , Active
+C00363     , Samantha Rogers        , Retail   , Willisborough          , USA    , Active
+C00364     , Lindsay Kaufman        , Retail   , Port Cheryl            , USA    , Active
+C00365     , Shelley Richardson     , Retail   , New Spencer            , USA    , Inactive
+C00366     , Jeffery Allison        , Corporate, North Connieview       , USA    , Active
+C00367     , Andrea Brown           , Retail   , Lake Matthewfurt       , USA    , Active
+C00368     , Janet Allen            , Retail   , Port Jenniferstad      , USA    , Active
+C00369     , Jesse Gardner          , Retail   , Caldwellport           , USA    , Active
+C00370     , Thomas Werner          , Retail   , Padillafurt            , USA    , Active
+C00371     , Lucas Gillespie        , Corporate, New Shane              , USA    , Active
+C00372     , Laura Pearson          , Retail   , South Ericshire        , USA    , Active
+C00373     , Laura Weaver           , Retail   , New Rachel             , USA    , Active
+C00374     , Thomas Mcguire         , Retail   , Lake Michaelview       , USA    , Active
+C00375     , Crystal Werner         , Retail   , Douglasville           , USA    , Active
+C00376     , Hannah Rice            , Corporate, Denisechester          , USA    , Active
+C00377     , Julie Carter           , Retail   , Andrewland             , USA    , Active
+C00378     , Jonathan Christian     , Corporate, Port Mackenziechester  , USA    , Active
+C00379     , Karen Crawford         , Retail   , North John             , USA    , Active
+C00380     , Kyle Martin            , Retail   , Staceyshire            , USA    , Active
+C00381     , James Robertson        , Wholesale, Ericafort              , USA    , Active
+C00382     , Donald Contreras       , Retail   , Hornmouth              , USA    , Active
+C00383     , Jason Hamilton         , Retail   , Gregoryhaven           , USA    , Active
+C00384     , John Williams          , Corporate, Camposshire            , USA    , Active
+C00385     , Alicia Hansen          , Retail   , Hartmanport            , USA    , Active
+C00386     , Daniel Wilson          , Corporate, West Robert            , USA    , Active
+C00387     , Michael Rice           , Retail   , Wallacemouth           , USA    , Active
+C00388     , Joseph Williams        , Wholesale, Port Robertmouth       , USA    , Active
+C00389     , Jillian Romero         , Corporate, South Kristen          , USA    , Active
+C00390     , David Martinez         , Retail   , Port George            , USA    , Active
+C00391     , Daniel Miller          , Wholesale, Jonesport              , USA    , Active
+C00392     , Joyce Martinez         , Retail   , South Ernest           , USA    , Active
+C00393     , Amanda Allen           , Wholesale, West Jamestown         , USA    , Active
+C00394     , Wesley Moore           , Retail   , Jordanview             , USA    , Inactive
+C00395     , Jason Wilkinson        , Retail   , New Randymouth         , USA    , Active
+C00396     , Sharon Lewis           , Retail   , East Philip            , USA    , Active
+C00397     , Raymond Wilson         , Retail   , Lake Gina              , USA    , Active
+C00398     , Janet Burch            , Retail   , North Erinville        , USA    , Inactive
+C00399     , Ashley Beltran         , Corporate, Kathrynland            , USA    , Active
+C00400     , Leonard Burton         , Corporate, South Saraton          , USA    , Active
+C00401     , Felicia Young          , Wholesale, Leeport                , USA    , Active
+C00402     , Olivia Russo           , Retail   , Robinfurt              , USA    , Inactive
+C00403     , Hannah Alexander       , Retail   , Englishport            , USA    , Active
+C00404     , Jimmy Griffin          , Retail   , Leonardville           , USA    , Active
+C00405     , Valerie Nunez          , Retail   , North Amy              , USA    , Active
+C00406     , James Levy             , Retail   , Mcmillanmouth          , USA    , Active
+C00407     , Mindy Rodriguez        , Retail   , Goldenbury             , USA    , Active
+C00408     , Judy Hoover            , Corporate, Johnsonview            , USA    , Active
+C00409     , Cesar Thompson         , Retail   , New Aaron              , USA    , Active
+C00410     , Jennifer Dudley        , Retail   , Hernandezbury          , USA    , Active
+C00411     , Christopher Lewis      , Retail   , Rosariotown            , USA    , Active
+C00412     , Angela Schmidt         , Retail   , West Christine         , USA    , Active
+C00413     , Lisa Love              , Retail   , Juliamouth             , USA    , Active
+C00414     , Brianna Nguyen         , Wholesale, New Randy              , USA    , Inactive
+C00415     , Christopher Parker     , Retail   , West Ericaburgh        , USA    , Active
+C00416     , Johnny Anderson        , Retail   , New Julieside          , USA    , Active
+C00417     , Thomas Kaufman         , Retail   , Lindamouth             , USA    , Active
+C00418     , Albert Russell         , Corporate, South Melissatown      , USA    , Active
+C00419     , Matthew Mahoney        , Wholesale, North Catherine        , USA    , Active
+C00420     , Kristin Robinson       , Corporate, New Thomas             , USA    , Active
+C00421     , Johnny Williams        , Corporate, Jessicafurt            , USA    , Active
+C00422     , Mike Hale              , Retail   , New Charlotte          , USA    , Active
+C00423     , Darrell Ferrell        , Retail   , Adamfurt               , USA    , Active
+C00424     , Ashlee Jones           , Wholesale, East Bradley           , USA    , Active
+C00425     , Kenneth Roy            , Corporate, Leebury                , USA    , Active
+C00426     , Jared Murphy           , Retail   , New Amanda             , USA    , Inactive
+C00427     , Kristine Williams      , Corporate, Irwinview              , USA    , Inactive
+C00428     , Christopher Cunningham , Corporate, West Travismouth       , USA    , Inactive
+C00429     , Jennifer Wagner        , Retail   , Tonyashire             , USA    , Active
+C00430     , Mackenzie Harris       , Wholesale, East Ann               , USA    , Active
+C00431     , Dr. Michael Moore      , Wholesale, Thomasshire            , USA    , Active
+C00432     , Yvette Schneider       , Retail   , Thomasbury             , USA    , Active
+C00433     , Katie Crane            , Corporate, East Kendra            , USA    , Active
+C00434     , Nicole Tate            , Retail   , Hobbsport              , USA    , Active
+C00435     , Stephanie Santos       , Corporate, Whiteside              , USA    , Active
+C00436     , Daniel Flores          , Retail   , New Mary               , USA    , Active
+C00437     , Danielle Alexander     , Retail   , Melissaville           , USA    , Active
+C00438     , Kelsey Turner          , Wholesale, Sharonberg             , USA    , Active
+C00439     , Elizabeth Lin          , Retail   , Bakerberg              , USA    , Active
+C00440     , Catherine Booth        , Retail   , Nicholasborough        , USA    , Active
+C00441     , Steven Vasquez         , Retail   , Michaelmouth           , USA    , Inactive
+C00442     , Timothy Sharp Jr.      , Retail   , West Wendybury         , USA    , Active
+C00443     , Jennifer Green         , Corporate, North Jeanborough      , USA    , Active
+C00444     , Courtney Miller        , Retail   , Port Tammy             , USA    , Active
+C00445     , Mr. Raymond Thompson II, Retail   , Gordonshire            , USA    , Active
+C00446     , Joel Pearson           , Retail   , Jayfurt                , USA    , Active
+C00447     , Hayley Smith           , Corporate, Port Kimberg           , USA    , Inactive
+C00448     , Rhonda Ortiz           , Corporate, Crawfordberg           , USA    , Active
+C00449     , Lori Ramsey            , Retail   , South Scott            , USA    , Active
+C00450     , Rebecca Ford           , Retail   , Fernandezland          , USA    , Active
+C00451     , Lindsay Welch          , Retail   , East Brandonfurt       , USA    , Active
+C00452     , Andre Graham           , Retail   , Port Davidview         , USA    , Active
+C00453     , Erin Duarte            , Corporate, Lake Robert            , USA    , Active
+C00454     , Karen Martinez         , Retail   , Lake Jeffreyhaven      , USA    , Active
+C00455     , April Guerra           , Retail   , Lake Jasonberg         , USA    , Inactive
+C00456     , Thomas Kennedy         , Retail   , Christineport          , USA    , Active
+C00457     , Chelsea Fry            , Corporate, East Samuelview        , USA    , Active
+C00458     , Megan Harris           , Retail   , Lake Jamesmouth        , USA    , Active
+C00459     , Daniel Ortiz           , Retail   , Port Patriciaton       , USA    , Active
+C00460     , Kevin Griffin          , Retail   , Allisonshire           , USA    , Active
+C00461     , Lisa Garrison          , Retail   , New Brianside          , USA    , Active
+C00462     , Carl Hall              , Corporate, West Johnmouth         , USA    , Active
+C00463     , Kayla Mcbride          , Retail   , East Zacharyborough    , USA    , Active
+C00464     , Yolanda Martinez       , Corporate, Lake Shellyhaven       , USA    , Active
+C00465     , Dr. Charlotte Johnson  , Corporate, South Amy              , USA    , Active
+C00466     , Aaron Wallace          , Retail   , Calderonside           , USA    , Active
+C00467     , Martin Grimes          , Retail   , New Donaldborough      , USA    , Active
+C00468     , Dawn Collier           , Corporate, East Patricia          , USA    , Inactive
+C00469     , Mr. Carlos Carter      , Retail   , Jamesshire             , USA    , Active
+C00470     , Faith Zimmerman        , Retail   , Lake Lisa              , USA    , Active
+C00471     , Eric Hoover            , Wholesale, West Kimberly          , USA    , Active
+C00472     , Tammy Banks            , Retail   , Nealshire              , USA    , Inactive
+C00473     , Barry Nelson           , Retail   , West Kenneth           , USA    , Active
+C00474     , Lisa Ramos             , Retail   , Caseystad              , USA    , Active
+C00475     , Mia Dennis             , Wholesale, Paulton                , USA    , Active
+C00476     , Stacie Hester          , Retail   , Millerfort             , USA    , Active
+C00477     , Dr. Steve Hill         , Retail   , Chavezfurt             , USA    , Active
+C00478     , William Taylor         , Retail   , Lake Kimberlychester   , USA    , Active
+C00479     , John Vasquez           , Retail   , South Dawn             , USA    , Active
+C00480     , Jeffrey Parker         , Retail   , Port Patricktown       , USA    , Inactive
+C00481     , Lindsay Wilson         , Retail   , East Jennifer          , USA    , Active
+C00482     , Charles Finley         , Retail   , Kington                , USA    , Active
+C00483     , Anthony Garcia         , Retail   , Derekfort              , USA    , Active
+C00484     , David Bell             , Retail   , Stephenhaven           , USA    , Active
+C00485     , Jason Hood             , Retail   , Youngport              , USA    , Active
+C00486     , Mr. Bruce Hensley      , Retail   , Port Marissa           , USA    , Active
+C00487     , Andrea Lucas           , Retail   , Christophertown        , USA    , Active
+C00488     , Heather Smith          , Corporate, Hillton                , USA    , Active
+C00489     , Randall Thompson       , Retail   , Port Marcus            , USA    , Active
+C00490     , Danielle Thomas        , Retail   , East Chaseland         , USA    , Active
+C00491     , Joseph Morrison        , Retail   , West Calvin            , USA    , Active
+C00492     , Shannon Miller         , Corporate, New Nicoletown         , USA    , Active
+C00493     , Dwayne Holland         , Corporate, New Stephanie          , USA    , Inactive
+C00494     , Allison Phelps         , Retail   , Port Dawn              , USA    , Active
+C00495     , Wendy Montoya          , Retail   , Petersonfort           , USA    , Active
+C00496     , Louis Andrews          , Wholesale, Thomashaven            , USA    , Active
+C00497     , Amanda Wilson          , Retail   , Port Lisa              , USA    , Active
+C00498     , Erik Hood              , Retail   , Lake Pamelamouth       , USA    , Active
+C00499     , John Clark             , Retail   , Lake Tiffanyton        , USA    , Active
+C00500     , Susan Johnson          , Retail   , South Jerrystad        , USA    , Active
+C00501     , John Kerr              , Wholesale, South Joshuaside       , USA    , Active
+C00502     , Jonathan Smith         , Corporate, Lovetown               , USA    , Active
+C00503     , Tony Weiss             , Retail   , Port Darlene           , USA    , Active
+C00504     , Melissa Rios           , Retail   , Sharonport             , USA    , Active
+C00505     , Kimberly Hubbard DDS   , Wholesale, Jacksonton             , USA    , Active
+C00506     , James Taylor           , Corporate, Lake Cindy             , USA    , Active
+C00507     , Scott Carter           , Retail   , Carrollmouth           , USA    , Active
+C00508     , Dr. Kyle Townsend      , Wholesale, Garciafort             , USA    , Active
+C00509     , Calvin Levy            , Wholesale, Anthonytown            , USA    , Active
+C00510     , Stephen Berry          , Corporate, North Ryanstad         , USA    , Active
+C00511     , Ross Tran              , Retail   , South Rodney           , USA    , Active
+C00512     , Kathryn Cooper         , Retail   , Lloydfurt              , USA    , Active
+C00513     , Isaiah Dougherty       , Corporate, Mooreshire             , USA    , Active
+C00514     , Joseph Austin          , Retail   , West Billtown          , USA    , Active
+C00515     , Amanda Frederick       , Corporate, Lake Stevenside        , USA    , Active
+C00516     , Peter Phillips         , Retail   , Lake Juanland          , USA    , Active
+C00517     , Jamie Bradley          , Retail   , North Jennifertown     , USA    , Active
+C00518     , Donna Turner           , Retail   , East Mary              , USA    , Active
+C00519     , Elizabeth Carroll      , Retail   , Melissaport            , USA    , Active
+C00520     , Laura Higgins          , Wholesale, Christopherchester     , USA    , Active
+C00521     , Darrell Johnson        , Corporate, North Jessicaville     , USA    , Active
+C00522     , Rebecca Horton         , Corporate, Port Brittanymouth     , USA    , Active
+C00523     , Amanda Chase           , Retail   , West Johnnyton         , USA    , Active
+C00524     , Jean Howard            , Retail   , East Amberview         , USA    , Active
+C00525     , Maria Rogers           , Retail   , Farrellport            , USA    , Active
+C00526     , Timothy Rice           , Retail   , New Tanya              , USA    , Active
+C00527     , Jeffery Hooper         , Retail   , South Darrell          , USA    , Active
+C00528     , Zachary Smith          , Retail   , Lake Stephanieton      , USA    , Active
+C00529     , Kelsey Mitchell        , Retail   , Morganborough          , USA    , Active
+C00530     , Miranda Kerr           , Retail   , New Ann                , USA    , Active
+C00531     , David Mccann           , Wholesale, East Petermouth        , USA    , Active
+C00532     , Evelyn Campos          , Corporate, Michaelberg            , USA    , Active
+C00533     , Joel Manning           , Retail   , East Harrybury         , USA    , Active
+C00534     , Craig Kelley MD        , Retail   , Justinborough          , USA    , Active
+C00535     , Kenneth Villegas       , Corporate, Deniseborough          , USA    , Active
+C00536     , Kristen Harris         , Retail   , Timothyside            , USA    , Active
+C00537     , Glenn Gaines           , Corporate, Timothymouth           , USA    , Active
+C00538     , Danielle Clark         , Corporate, New Derrickmouth       , USA    , Active
+C00539     , Amanda Cook            , Retail   , Charlesfurt            , USA    , Active
+C00540     , Jacob Porter           , Retail   , Adamshaven             , USA    , Active
+C00541     , Sheri Page             , Retail   , North Caitlin          , USA    , Active
+C00542     , Patrick Thomas         , Retail   , North Judyton          , USA    , Active
+C00543     , Debra Reilly           , Retail   , Barbarachester         , USA    , Active
+C00544     , Maria Fischer          , Corporate, Brittanyfurt           , USA    , Active
+C00545     , Teresa Velasquez       , Retail   , Richardfort            , USA    , Active
+C00546     , Mary Rice              , Retail   , Lake Michael           , USA    , Active
+C00547     , Jessica Patterson      , Wholesale, Howeside               , USA    , Active
+C00548     , Amanda Gutierrez       , Corporate, Port Ricardoburgh      , USA    , Active
+C00549     , Garrett Johnson        , Retail   , East Meganton          , USA    , Active
+C00550     , Reginald Smith         , Retail   , West Joshuabury        , USA    , Active
+C00551     , Kelly Knox             , Retail   , Lake Bruceborough      , USA    , Active
+C00552     , Michelle Pacheco       , Corporate, Maxwellburgh           , USA    , Active
+C00553     , John Cruz              , Retail   , West Robertfurt        , USA    , Active
+C00554     , Sydney Fox             , Retail   , Robertsborough         , USA    , Active
+C00555     , Christopher Reed       , Wholesale, South Adamborough      , USA    , Active
+C00556     , Sarah Stephens         , Retail   , South Stanleyborough   , USA    , Active
+C00557     , Victoria Horne         , Corporate, Bradshawtown           , USA    , Active
+C00558     , Alyssa Brown           , Wholesale, Richardton             , USA    , Active
+C00559     , John Russell           , Retail   , Ryanville              , USA    , Active
+C00560     , Thomas Riley           , Corporate, East Alyssaport        , USA    , Active
+C00561     , Douglas Merritt        , Retail   , West Barbara           , USA    , Active
+C00562     , Marc Mays              , Wholesale, New Timothy            , USA    , Active
+C00563     , Lauren Flowers         , Retail   , Jeremyhaven            , USA    , Active
+C00564     , Brian Scott            , Corporate, West Evan              , USA    , Active
+C00565     , Danielle Stephens DVM  , Retail   , Danielleland           , USA    , Inactive
+C00566     , Courtney Hawkins       , Corporate, South Henry            , USA    , Active
+C00567     , Mrs. Ashlee Patterson  , Corporate, Lake Meganfort         , USA    , Active
+C00568     , Sarah Willis           , Retail   , East Kimberlyland      , USA    , Active
+C00569     , Emily Fitzpatrick      , Corporate, West Meghanbury        , USA    , Active
+C00570     , Tyler Morales          , Retail   , Port Annshire          , USA    , Active
+C00571     , Heather Nelson         , Retail   , Taylorville            , USA    , Active
+C00572     , Lauren Faulkner        , Retail   , South Nicholeberg      , USA    , Active
+C00573     , Gary Benitez           , Retail   , Hansenfurt             , USA    , Active
+C00574     , Jacob Lawrence         , Retail   , Port Robin             , USA    , Active
+C00575     , Matthew Davis          , Wholesale, Deannatown             , USA    , Active
+C00576     , Kelsey Davis           , Retail   , Andersonchester        , USA    , Active
+C00577     , Ashley Morris          , Corporate, West Christine         , USA    , Active
+C00578     , Roy Stewart MD         , Retail   , Sheltonshire           , USA    , Active
+C00579     , Jennifer Kelly         , Corporate, South Matthew          , USA    , Active
+C00580     , Tonya Davis            , Wholesale, Lake Sarahchester      , USA    , Active
+C00581     , Krista Cannon          , Retail   , Bruceborough           , USA    , Active
+C00582     , Mary Parsons           , Corporate, Maxwellhaven           , USA    , Active
+C00583     , Daniel Garcia          , Retail   , Davisland              , USA    , Active
+C00584     , Heather Lee            , Corporate, Port Patriciaton       , USA    , Inactive
+C00585     , Stanley Perez          , Retail   , Michaelfurt            , USA    , Active
+C00586     , Susan Lamb             , Wholesale, New Victoriafurt       , USA    , Active
+C00587     , Wendy Blevins          , Retail   , Kathrynfurt            , USA    , Inactive
+C00588     , Jessica Massey         , Retail   , Bennettville           , USA    , Active
+C00589     , Barbara Little         , Corporate, Barbarastad            , USA    , Active
+C00590     , James Young            , Retail   , North Edgarville       , USA    , Inactive
+C00591     , Bradley Gibson         , Retail   , North Douglas          , USA    , Active
+C00592     , Lauren Evans           , Retail   , Margaretview           , USA    , Active
+C00593     , Amy Castaneda          , Retail   , Port Alexander         , USA    , Active
+C00594     , Sarah Williams         , Retail   , Lake Tannerburgh       , USA    , Active
+C00595     , Ryan Lewis             , Retail   , Port Richardside       , USA    , Active
+C00596     , Cory Kim               , Retail   , Danahaven              , USA    , Inactive
+C00597     , Rachel Bentley         , Retail   , East Laurie            , USA    , Active
+C00598     , Susan Smith            , Corporate, Turnerstad             , USA    , Active
+C00599     , Peter Nelson           , Retail   , North Yolanda          , USA    , Active
+C00600     , David Stewart          , Retail   , Bondfort               , USA    , Active
+C00601     , Edward Bailey          , Retail   , Tracifort              , USA    , Active
+C00602     , Jamie Stone            , Retail   , Port Jenna             , USA    , Active
+C00603     , Deborah Hall           , Corporate, Samanthaborough        , USA    , Active
+C00604     , Christopher Hill       , Retail   , North Thomas           , USA    , Active
+C00605     , Carl Willis            , Retail   , Port Arianastad        , USA    , Inactive
+C00606     , Jamie Gray             , Corporate, Port Kristyland        , USA    , Active
+C00607     , John Dillon            , Corporate, Danview                , USA    , Active
+C00608     , Wesley Bailey          , Retail   , West Charlestown       , USA    , Active
+C00609     , Joseph Key             , Corporate, West Lorraineburgh     , USA    , Inactive
+C00610     , Raymond Bennett        , Wholesale, Ericksonberg           , USA    , Inactive
+C00611     , Elizabeth Thomas       , Retail   , Matthewtown            , USA    , Active
+C00612     , Pamela Hayden          , Corporate, New Lisaside           , USA    , Active
+C00613     , Deanna Bryan           , Corporate, Hallborough            , USA    , Active
+C00614     , Jennifer Sullivan      , Retail   , Mariaport              , USA    , Active
+C00615     , Walter Williams        , Retail   , Jonathanbury           , USA    , Active
+C00616     , Jeffrey Brown          , Retail   , Alishashire            , USA    , Active
+C00617     , Katie Williams         , Corporate, West Davidport         , USA    , Inactive
+C00618     , Matthew Roberts        , Wholesale, Allenfort              , USA    , Active
+C00619     , Mark Taylor            , Corporate, Donaldbury             , USA    , Active
+C00620     , Cassandra Wagner       , Retail   , Byrdfurt               , USA    , Active
+C00621     , Anna Page              , Retail   , South Clarence         , USA    , Active
+C00622     , Travis Rojas           , Retail   , Courtneystad           , USA    , Active
+C00623     , Brandon Rivas          , Retail   , Rogersville            , USA    , Active
+C00624     , Michael Martin         , Retail   , Rebeccafurt            , USA    , Active
+C00625     , Gregory Warner         , Corporate, Peterport              , USA    , Active
+C00626     , Mr. Hector Miller III  , Retail   , Granthaven             , USA    , Inactive
+C00627     , Brian Copeland         , Corporate, South Adamfort         , USA    , Active
+C00628     , Marilyn Oneill         , Retail   , Popehaven              , USA    , Active
+C00629     , Stephanie Watts        , Retail   , Christinemouth         , USA    , Active
+C00630     , Cindy Brown            , Retail   , Brandyborough          , USA    , Active
+C00631     , Tyler Martinez         , Retail   , Sandrachester          , USA    , Active
+C00632     , Lisa Hall              , Wholesale, Salasfurt              , USA    , Active
+C00633     , Anna Diaz              , Retail   , Murphyview             , USA    , Active
+C00634     , Amy Hooper             , Corporate, Jefferyville           , USA    , Active
+C00635     , Michael Osborne        , Retail   , Jacquelinemouth        , USA    , Active
+C00636     , Nicholas Nguyen        , Corporate, Lake Ashlee            , USA    , Active
+C00637     , Jessica Brock          , Retail   , Jonathonville          , USA    , Active
+C00638     , Ryan Cook              , Corporate, Taylorshire            , USA    , Active
+C00639     , Christopher Espinoza   , Corporate, Andrewside             , USA    , Active
+C00640     , Douglas Watts          , Retail   , Daviston               , USA    , Active
+C00641     , Nicole Webster         , Retail   , Port Maryside          , USA    , Active
+C00642     , Amanda Lane            , Corporate, Martinfurt             , USA    , Active
+C00643     , Luke Wagner            , Wholesale, Port Michael           , USA    , Active
+C00644     , Jenna Woods            , Retail   , Port Stevenfort        , USA    , Active
+C00645     , Drew Moore             , Corporate, West Markborough       , USA    , Active
+C00646     , Mark Simpson           , Wholesale, South Thomastown       , USA    , Active
+C00647     , Phillip Mason          , Corporate, New Paulaton           , USA    , Active
+C00648     , Cheryl Turner          , Wholesale, Ericside               , USA    , Active
+C00649     , Corey Berry            , Corporate, North Yvonnehaven      , USA    , Active
+C00650     , Jessica Davila         , Retail   , Cooperville            , USA    , Inactive
+C00651     , Benjamin Griffin       , Retail   , East John              , USA    , Active
+C00652     , Shawn Rodriguez        , Retail   , Henryville             , USA    , Active
+C00653     , Alexander Estes        , Corporate, Shannonburgh           , USA    , Active
+C00654     , Jacqueline Anderson    , Corporate, New Mary               , USA    , Active
+C00655     , Ralph Wilson           , Retail   , Elliottside            , USA    , Active
+C00656     , Michelle Heath         , Corporate, South Justin           , USA    , Inactive
+C00657     , Lisa Davis             , Corporate, Fisherville            , USA    , Inactive
+C00658     , Tony Snyder            , Retail   , Austinberg             , USA    , Active
+C00659     , Kimberly Cannon        , Retail   , Mooremouth             , USA    , Active
+C00660     , Brian Hill             , Retail   , Walkermouth            , USA    , Active
+C00661     , Cheryl House           , Retail   , Millerbury             , USA    , Active
+C00662     , Lisa Guzman            , Retail   , West Peter             , USA    , Active
+C00663     , Mary Olson             , Retail   , Lake Emmaview          , USA    , Active
+C00664     , Rhonda Greene          , Retail   , Lake Jonathan          , USA    , Active
+C00665     , Deborah Richardson     , Retail   , West Rhondaberg        , USA    , Inactive
+C00666     , Hunter Gomez           , Retail   , Port Anthonymouth      , USA    , Active
+C00667     , Janice Moore           , Retail   , East Debraton          , USA    , Active
+C00668     , Lisa Lee               , Corporate, Perezton               , USA    , Active
+C00669     , Steve Black            , Retail   , West Robertport        , USA    , Active
+C00670     , Mr. Nathan Ford        , Wholesale, New Matthewhaven       , USA    , Active
+C00671     , Chelsea Johnson        , Wholesale, New Laura              , USA    , Active
+C00672     , Robert Vasquez         , Retail   , Wardfurt               , USA    , Active
+C00673     , Candace Bell           , Retail   , Helenberg              , USA    , Active
+C00674     , Amy Webster            , Retail   , Andrewberg             , USA    , Active
+C00675     , Deanna Jones           , Retail   , Ericastad              , USA    , Active
+C00676     , Brian Duncan           , Retail   , West Haley             , USA    , Active
+C00677     , Jeffrey Long           , Retail   , Josephberg             , USA    , Active
+C00678     , Maria Carpenter        , Retail   , Youngmouth             , USA    , Active
+C00679     , William Cooper         , Retail   , Port Jeremy            , USA    , Active
+C00680     , Brooke Coleman         , Retail   , Port Lindseybury       , USA    , Active
+C00681     , Kim Duncan             , Corporate, Lake Rebeccafort       , USA    , Active
+C00682     , April Sullivan         , Retail   , Kimberlyport           , USA    , Active
+C00683     , Tracy Leblanc          , Retail   , Pennyburgh             , USA    , Active
+C00684     , Daniel Kelly           , Retail   , Laneberg               , USA    , Active
+C00685     , Vanessa Rivera         , Wholesale, Zamorachester          , USA    , Active
+C00686     , Michael White          , Retail   , Lake Nicholas          , USA    , Inactive
+C00687     , Angela Young           , Retail   , Lake Candicemouth      , USA    , Active
+C00688     , Andrew Jacobs          , Corporate, Bakerside              , USA    , Active
+C00689     , Jessica Bean           , Retail   , Nguyenmouth            , USA    , Active
+C00690     , Nicole Smith           , Wholesale, West Danielle          , USA    , Active
+C00691     , Carla Castillo         , Corporate, Millsport              , USA    , Active
+C00692     , James Pham             , Corporate, Douglasside            , USA    , Active
+C00693     , Regina Morrow          , Corporate, North Edwardland       , USA    , Active
+C00694     , Lisa Gaines            , Wholesale, Flynnview              , USA    , Active
+C00695     , Scott Edwards          , Wholesale, Suttonchester          , USA    , Active
+C00696     , Tiffany Robinson       , Corporate, South Christopherburgh , USA    , Active
+C00697     , Jason Greene DDS       , Corporate, North Carolynchester   , USA    , Active
+C00698     , Lisa Tran              , Retail   , Lake Daisyfort         , USA    , Active
+C00699     , Adam Scott             , Retail   , Alyssabury             , USA    , Inactive
+C00700     , Angela Gibson          , Retail   , New Carlaton           , USA    , Active
+C00701     , Christina Tapia        , Retail   , Livingstonmouth        , USA    , Active
+C00702     , Donna Pace             , Retail   , Sierrastad             , USA    , Active
+C00703     , Emma Little            , Retail   , Hamiltonburgh          , USA    , Active
+C00704     , Gary Green             , Retail   , New Timothy            , USA    , Active
+C00705     , Alan James             , Corporate, South Nathanborough    , USA    , Active
+C00706     , Scott Nunez            , Wholesale, Andersonshire          , USA    , Active
+C00707     , Jeremy Cruz            , Retail   , Joshuashire            , USA    , Active
+C00708     , Heather Jackson        , Retail   , Nicholasview           , USA    , Active
+C00709     , John Rowe              , Corporate, South Markton          , USA    , Active
+C00710     , Nicholas Mcfarland     , Retail   , Amandafort             , USA    , Active
+C00711     , Dustin Bradley         , Corporate, East Aaron             , USA    , Active
+C00712     , Brian Mills            , Retail   , East Roymouth          , USA    , Active
+C00713     , Whitney Boyd           , Retail   , East Anita             , USA    , Active
+C00714     , Lisa Morales           , Wholesale, Wheelerfort            , USA    , Active
+C00715     , Kelly Rios             , Retail   , Melanieland            , USA    , Active
+C00716     , Adam Hart              , Corporate, South Gabrielaville    , USA    , Active
+C00717     , David Payne            , Corporate, East Erikbury          , USA    , Active
+C00718     , Michelle Barber        , Retail   , Harrismouth            , USA    , Active
+C00719     , Miss Heidi Lawrence    , Corporate, Port Walterfurt        , USA    , Active
+C00720     , David Robbins          , Wholesale, East Margaret          , USA    , Active
+C00721     , Kevin Johns            , Retail   , Charlesmouth           , USA    , Active
+C00722     , Jonathan Anderson      , Corporate, Port Pennyton          , USA    , Active
+C00723     , Samantha Johnson       , Retail   , Austinborough          , USA    , Active
+C00724     , Christopher Harris     , Retail   , West Katherine         , USA    , Active
+C00725     , Dr. Jodi Rodriguez     , Retail   , Jamesbury              , USA    , Active
+C00726     , Dustin Doyle           , Retail   , Port Lisa              , USA    , Active
+C00727     , Tonya Thompson         , Wholesale, Jonesberg              , USA    , Active
+C00728     , Andrew Colon PhD       , Wholesale, Wyatthaven             , USA    , Active
+C00729     , Jeffrey Nicholson      , Retail   , East Amanda            , USA    , Active
+C00730     , Mr. Christopher Young  , Corporate, Justinside             , USA    , Active
+C00731     , Corey Cook             , Retail   , Tammymouth             , USA    , Active
+C00732     , Andres York            , Retail   , New Michellefurt       , USA    , Active
+C00733     , Stephen Yoder          , Corporate, Floydbury              , USA    , Active
+C00734     , Kimberly Clark         , Retail   , Robertsonstad          , USA    , Active
+C00735     , Terri Burton           , Retail   , Crossmouth             , USA    , Active
+C00736     , David Young            , Corporate, Copelandbury           , USA    , Active
+C00737     , David Perkins          , Retail   , South Lindseyside      , USA    , Active
+C00738     , Ashley Bowen           , Retail   , Anthonyland            , USA    , Active
+C00739     , Anthony Myers          , Retail   , Lake Amandashire       , USA    , Active
+C00740     , Billy Ward             , Retail   , Martinezside           , USA    , Inactive
+C00741     , Sandra Fletcher        , Corporate, Floreshaven            , USA    , Active
+C00742     , Cathy Garcia           , Retail   , Jacksonburgh           , USA    , Active
+C00743     , David Moore            , Corporate, Davisstad              , USA    , Active
+C00744     , Alexandra Greene       , Retail   , East William           , USA    , Active
+C00745     , Shane Russell          , Retail   , Mariamouth             , USA    , Inactive
+C00746     , Hailey Strickland      , Retail   , Berryshire             , USA    , Active
+C00747     , Roy Russell            , Retail   , Davidshire             , USA    , Active
+C00748     , Craig Jackson          , Corporate, West Michael           , USA    , Active
+C00749     , Derrick Brooks         , Corporate, North Elizabethport    , USA    , Active
+C00750     , Hannah Spencer         , Retail   , Martinezmouth          , USA    , Inactive
+C00751     , Adam Vega              , Retail   , Morganton              , USA    , Inactive
+C00752     , Adrian Griffin         , Retail   , Harrisonland           , USA    , Active
+C00753     , Stephen Turner         , Retail   , Salasmouth             , USA    , Active
+C00754     , Joseph Hall            , Corporate, Christopherview        , USA    , Active
+C00755     , Rebecca Anderson       , Retail   , Barajasberg            , USA    , Active
+C00756     , Rhonda Sherman         , Retail   , New Stephanieland      , USA    , Active
+C00757     , Richard Brennan        , Retail   , West Deborah           , USA    , Active
+C00758     , Joshua Baldwin         , Retail   , Josephmouth            , USA    , Active
+C00759     , Sarah Rios             , Retail   , Walterhaven            , USA    , Active
+C00760     , Mark Leach             , Retail   , Davidton               , USA    , Inactive
+C00761     , Shannon Carter         , Retail   , Jamesberg              , USA    , Active
+C00762     , Erica Ortiz            , Retail   , West Diane             , USA    , Active
+C00763     , James Burke            , Corporate, Claudiaville           , USA    , Inactive
+C00764     , Dr. Larry Kent         , Retail   , Port Mark              , USA    , Active
+C00765     , Patrick Burns          , Wholesale, Kimberlyland           , USA    , Active
+C00766     , Jeffrey Hardy          , Retail   , Alexandraville         , USA    , Inactive
+C00767     , Sandy Howell           , Corporate, Butlerstad             , USA    , Inactive
+C00768     , Taylor Martinez        , Retail   , Lake Dylan             , USA    , Active
+C00769     , James White            , Corporate, South Brandyhaven      , USA    , Active
+C00770     , Julia Wilson           , Corporate, New Michaelbury        , USA    , Active
+C00771     , Danielle Morris        , Retail   , Owenport               , USA    , Active
+C00772     , Patricia Snyder        , Retail   , Elizabethchester       , USA    , Active
+C00773     , Dr. Rachel Fischer     , Retail   , North Katherineborough , USA    , Active
+C00774     , Maria Robinson         , Retail   , New Lorihaven          , USA    , Active
+C00775     , Yolanda Jennings       , Retail   , Alisonmouth            , USA    , Active
+C00776     , Amanda Decker          , Retail   , Port Brandi            , USA    , Active
+C00777     , Jessica Harris         , Retail   , Paulaport              , USA    , Active
+C00778     , Isaiah Buck            , Retail   , New Christinaside      , USA    , Active
+C00779     , David Bates            , Corporate, Leonport               , USA    , Inactive
+C00780     , Jared White            , Corporate, North Christopher      , USA    , Active
+C00781     , Lance Sanders          , Wholesale, New David              , USA    , Active
+C00782     , Lance Jones            , Retail   , Amandaside             , USA    , Active
+C00783     , Lucas Nichols          , Retail   , Robertport             , USA    , Active
+C00784     , Alexa Tanner           , Retail   , Kimberlyfurt           , USA    , Active
+C00785     , Dr. Eric Williams      , Retail   , South Yvette           , USA    , Active
+C00786     , Sandra Cowan           , Corporate, Port Cynthiaton        , USA    , Active
+C00787     , Lisa Campbell          , Retail   , Karlland               , USA    , Active
+C00788     , Charles Copeland       , Corporate, East Melvinhaven       , USA    , Active
+C00789     , William Elliott        , Retail   , Levineside             , USA    , Active
+C00790     , Jonathan Richardson    , Retail   , Marybury               , USA    , Active
+C00791     , Amanda Thompson        , Retail   , Fullerland             , USA    , Active
+C00792     , Mr. Mark Price         , Retail   , North Shannontown      , USA    , Active
+C00793     , Elizabeth Allen        , Retail   , Wrightbury             , USA    , Active
+C00794     , Michael Shaffer        , Retail   , Guzmanborough          , USA    , Active
+C00795     , Gloria Donovan         , Retail   , Austinhaven            , USA    , Active
+C00796     , Dr. Scott Reese MD     , Retail   , Port Matthew           , USA    , Active
+C00797     , Sarah Vazquez DDS      , Retail   , West Edgar             , USA    , Inactive
+C00798     , Laura Rowland          , Retail   , Robertsfurt            , USA    , Active
+C00799     , Mr. Frederick Wolf     , Retail   , South Matthew          , USA    , Active
+C00800     , Michael Stout          , Retail   , North Abigailton       , USA    , Active

@@ -1,0 +1,26 @@
+store_name,city,state,region,store_id,store_status,open_date
+NYC Downtown       , New York    , New York     , Northeast, S001    , Active      , 2018-09-10
+Brooklyn Hub       , New York    , New York     , Northeast, S002    , Active      , 2019-08-09
+Los Angeles Central, Los Angeles , California   , West     , S003    , Active      , 2012-05-10
+San Jose Tech Park , San Jose    , California   , West     , S004    , Active      , 2013-07-18
+Chicago Loop       , Chicago     , Illinois     , Midwest  , S005    , Active      , 2013-02-04
+Houston Galleria   , Houston     , Texas        , South    , S006    , Active      , 2012-12-31
+Dallas Uptown      , Dallas      , Texas        , South    , S007    , Active      , 2018-06-20
+Austin Central     , Austin      , Texas        , South    , S008    , Active      , 2014-06-27
+Miami Beach        , Miami       , Florida      , South    , S009    , Active      , 2015-12-10
+Atlanta Midtown    , Atlanta     , Georgia      , South    , S010    , Active      , 2011-04-12
+Seattle Downtown   , Seattle     , Washington   , West     , S011    , Active      , 2013-05-23
+Boston Harbor      , Boston      , Massachusetts, Northeast, S012    , Active      , 2010-11-27
+Philadelphia Center, Philadelphia, Pennsylvania , Northeast, S013    , Active      , 2014-01-22
+Detroit Central    , Detroit     , Michigan     , Midwest  , S014    , Inactive    , 2015-11-06
+Cleveland Market   , Cleveland   , Ohio         , Midwest  , S015    , Inactive    , 2019-06-07
+Newark Plaza       , Newark      , New Jersey   , Northeast, S016    , Inactive    , 2018-09-07
+St. Louis Downtown , St. Louis   , Missouri     , Midwest  , S017    , Active      , 2017-12-29
+Kansas City Plaza  , Kansas City , Missouri     , Midwest  , S018    , Active      , 2010-05-11
+Phoenix Metro      , Phoenix     , Arizona      , West     , S019    , Active      , 2014-08-13
+Denver Central     , Denver      , Colorado     , Midwest  , S020    , Active      , 2019-04-04
+Portland Pearl     , Portland    , Oregon       , West     , S021    , Active      , 2012-02-09
+San Diego Plaza    , San Diego   , California   , West     , S022    , Active      , 2016-07-19
+Las Vegas Strip    , Las Vegas   , Nevada       , West     , S023    , Active      , 2014-02-24
+Orlando Outlet     , Orlando     , Florida      , South    , S024    , Active      , 2019-07-18
+Minneapolis Hub    , Minneapolis , Minnesota    , Midwest  , S025    , Active      , 2017-10-24

@@ -1,0 +1,121 @@
+product_id,product_name,category,standard_cost,list_price,product_status
+P0001     , Apple iPhone 14                                     , electronics,353.4205849175071,924.9757862697368, Active
+P0002     , Apple iPhone 13                                     , accessories,268.48596723368223,733.5676740598838, Active
+P0003     , Samsung Galaxy S23                                  , electronics,325.01592592183863,770.9754935761027, Active
+P0004     , MacBook Pro 14                                      , electronics,705.0742422594221,1535.1623392347294, Active
+P0005     , MacBook Air M2                                      , electronics,532.2965115850056,1681.028619178414, Active
+P0006     , Dell XPS 13                                         , electronics,152.67931676205933,219.70742244422465, Active
+P0007     , HP Spectre x360                                     , electronics,364.3852636064661,455.1618199461123, Active
+P0008     , Lenovo ThinkPad X1                                  , electronics,356.5011903792333,1240.943978600886, Active
+P0009     , Sony WH-1000XM5                                     , electronics,859.860785580563,709.6995282034786, Active
+P0010     , Bose QC45                                           , accessories,877.7430607153751,532.0782034185559, Discontinued
+P0011     , PlayStation 5                                       , electronics,245.85736154780787,601.9940003121958, Active
+P0012     , Xbox Series X                                       , electronics,1197.469343254815,648.3362992056209, Active
+P0013     , Nintendo Switch                                     , electronics,378.7947359883192,1542.7386513719466, Discontinued
+P0014     , Apple Watch Series 9                                , electronics,1173.8087505325711,332.25626345144894, Active
+P0015     , Samsung Galaxy Watch 6                              , accessories,540.361454916419,1305.1486947472015, Active
+P0016     , Front-line systemic access                          , electronics,175.52523127292127,1039.7939607434432, Active
+P0017     , Vision-oriented global definition                   , accessories,466.47979778988497,604.0672442012574, Active
+P0018     , Networked responsive emulation                      , electronics,790.4735060655274,813.62745595867, Active
+P0019     , Face-to-face 6thgeneration analyzer                 , electronics,842.3901057413389,535.5518041105787, Active
+P0020     , Centralized cohesive artificial intelligence        , electronics,1011.9700999727892,1139.573308471657, Active
+P0021     , Quality-focused mobile frame                        , accessories,581.5171443218626,238.7101066804086, Active
+P0022     , Horizontal static architecture                      , electronics,1048.8603896398308,108.81426671577752, Discontinued
+P0023     , Virtual radical neural-net                          , electronics,743.8203307449207,1167.4205054126812, Active
+P0024     , Vision-oriented even-keeled flexibility             , electronics,170.55572549264107,430.2657209704718, Active
+P0025     , Right-sized neutral neural-net                      , electronics,494.012990788773,220.59955889987705, Active
+P0026     , Organized incremental intranet                      , electronics,351.219130870717,774.5325062636102, Active
+P0027     , Re-contextualized secondary parallelism             , electronics,979.5165271454832,186.3065027669748, Active
+P0028     , Future-proofed leadingedge process improvement      , electronics,606.736710579563,1607.2491532161218, Active
+P0029     , Multi-tiered bottom-line Graphic Interface          , electronics,1181.4339178022242,146.948512185298, Active
+P0030     , Public-key radical focus group                      , electronics,526.6833755378995,1084.0703223628498, Active
+P0031     , Synergized 3rdgeneration website                    , electronics,994.40369800571,845.4060091307479, Active
+P0032     , Cross-group attitude-oriented structure             , electronics,974.1465399826972,1242.444430001839, Active
+P0033     , Function-based 5thgeneration Local Area Network     , electronics,248.803649241281,657.8595347070443, Active
+P0034     , Progressive upward-trending Graphical User Interface, electronics,649.1826299496049,363.5707484371652, Active
+P0035     , Persistent fresh-thinking process improvement       , electronics,859.3103436057877,1769.129510127903, Discontinued
+P0036     , De-engineered bi-directional model                  , electronics,1041.3618613913663,1526.1869535179178, Active
+P0037     , Mandatory mission-critical throughput               , electronics,445.0739738261109,1562.687851129848, Active
+P0038     , Quality-focused foreground migration                , electronics,490.0049599101211,525.4273128769689, Discontinued
+P0039     , Customer-focused leadingedge conglomeration         , electronics,876.48747633058,166.01904853001946, Active
+P0040     , Quality-focused zero-defect algorithm               , electronics,986.6411716764812,615.5513749444788, Active
+P0041     , Seamless executive workforce                        , accessories,470.5059057667369,1013.0401262343142, Active
+P0042     , Upgradable holistic projection                      , electronics,281.5766058335869,655.3071110532695, Active
+P0043     , Devolved dedicated middleware                       , electronics,1700.0790843425348,1507.3773064389006, Active
+P0044     , Ergonomic solution-oriented benchmark               , electronics,787.9209954270376,561.6229568935612, Active
+P0045     , Quality-focused zero tolerance task-force           , electronics,659.8815125907777,1740.9281116643087, Active
+P0046     , Object-based logistical info-mediaries              , accessories,1018.2353186162072,877.3507747433385, Active
+P0047     , Extended fresh-thinking Internet solution           , electronics,836.7729310839944,1531.4392275203684, Discontinued
+P0048     , Multi-tiered grid-enabled contingency               , electronics,1355.1630803244973,430.44605779128415, Active
+P0049     , Face-to-face web-enabled projection                 , electronics,314.1602152262393,799.3016385963535, Active
+P0050     , Multi-layered zero-defect process improvement       , electronics,686.4217306868737,1289.1707583042296, Discontinued
+P0051     , Object-based dynamic hardware                       , accessories,859.278527266492,335.2002571102623, Discontinued
+P0052     , Enhanced maximized core                             , electronics,503.9640366194634,325.6672178130487, Discontinued
+P0053     , Re-contextualized encompassing approach             , electronics,275.94951834744853,1748.2126740940705, Active
+P0054     , Programmable client-driven support                  , electronics,1770.0428167934515,1314.8116771059183, Active
+P0055     , Vision-oriented optimal function                    , electronics,658.632198223536,169.81477850538886, Active
+P0056     , Secured local pricing structure                     , electronics,372.1286758100581,777.9955324561507, Active
+P0057     , Cloned neutral database                             , electronics,1195.8041437288753,836.9852538872615, Discontinued
+P0058     , Grass-roots modular customer loyalty                , electronics,1161.269673443449,1364.872493098496, Active
+P0059     , Persistent tangible archive                         , electronics,705.2886680399492,526.4628964893241, Active
+P0060     , Organic attitude-oriented structure                 , electronics,1068.5527043720604,413.36724636332906, Discontinued
+P0061     , Upgradable static analyzer                          , electronics,291.3519613423449,237.48404324923604, Active
+P0062     , Enhanced empowering collaboration                   , electronics,392.3359149032437,828.1346073981832, Active
+P0063     , Monitored empowering archive                        , electronics,864.4007695695038,1270.449831301123, Active
+P0064     , Object-based intangible data-warehouse              , electronics,1028.2604793069029,198.92911236435413, Active
+P0065     , Future-proofed transitional encryption              , accessories,1039.0832069034636,1655.8633369650167, Discontinued
+P0066     , Universal even-keeled alliance                      , electronics,533.0491023768529,851.9987905428776, Active
+P0067     , Multi-layered next generation secured line          , accessories,1074.302510612275,507.6385105675855, Active
+P0068     , Secured contextually-based alliance                 , accessories,1033.0398626196145,259.58459313819594, Active
+P0069     , Stand-alone impactful solution                      , electronics,1127.9111935274611,410.8721950824225, Active
+P0070     , Programmable holistic Graphic Interface             , electronics,959.5815292476168,1688.8437954775063, Discontinued
+P0071     , Decentralized tangible attitude                     , electronics,829.2668452799361,1185.0600095336956, Discontinued
+P0072     , Fundamental intermediate policy                     , electronics,730.3690160088292,978.3836376251634, Active
+P0073     , Face-to-face optimizing projection                  , electronics,496.9566985491522,1217.0892584502838, Discontinued
+P0074     , Face-to-face coherent projection                    , electronics,1132.949455552712,840.6439277524148, Active
+P0075     , Balanced executive encryption                       , electronics,1170.5034971659554,1341.0668381550915, Active
+P0076     , Cross-platform reciprocal extranet                  , electronics,596.9872375589423,181.11741707580296, Active
+P0077     , Integrated 6thgeneration monitoring                 , electronics,422.0075235857207,1062.2632578399298, Active
+P0078     , Intuitive demand-driven access                      , accessories,935.8311060248608,369.69896099223473, Active
+P0079     , Automated asynchronous flexibility                  , electronics,582.235040144597,304.27990126959173, Active
+P0080     , Cross-platform motivating matrix                    , electronics,1790.6885371861786,681.1954334178827, Active
+P0081     , Robust bifurcated product                           , electronics,277.0362829986268,256.0584118828512, Active
+P0082     , Exclusive holistic data-warehouse                   , electronics,100.24440724938336,260.06688005655224, Active
+P0083     , Customizable solution-oriented concept              , electronics,633.1609610054468,629.4026259652002, Active
+P0084     , Stand-alone 5thgeneration product                   , electronics,280.2814343278883,1765.1678986565646, Active
+P0085     , Grass-roots mobile benchmark                        , electronics,490.4450387328031,398.0614588118755, Active
+P0086     , Advanced tangible moratorium                        , electronics,913.4709858233498,129.1738731139754, Active
+P0087     , Quality-focused neutral application                 , electronics,887.4527151623848,1397.7195191066487, Active
+P0088     , Intuitive discrete conglomeration                   , accessories,425.0280868746759,1471.7520609863252, Active
+P0089     , Cross-platform reciprocal adapter                   , electronics,687.6450582214873,688.7173458519813, Active
+P0090     , Ergonomic tangible data-warehouse                   , electronics,649.8717660594112,889.9454819973394, Active
+P0091     , Versatile stable moderator                          , electronics,1189.0387985523043,1204.6152604926976, Active
+P0092     , Future-proofed reciprocal projection                , electronics,360.51723683825423,181.7001711349573, Active
+P0093     , Visionary reciprocal application                    , electronics,740.6553492678091,1713.5477437053562, Active
+P0094     , Polarized client-driven Internet solution           , electronics,1176.36000126801,1607.356658406681, Active
+P0095     , Multi-lateral bandwidth-monitored implementation    , electronics,625.1512113145898,543.5191596809137, Active
+P0096     , Devolved fault-tolerant contingency                 , accessories,1094.8306422447804,126.01771849365409, Active
+P0097     , Stand-alone demand-driven software                  , electronics,849.7825340575203,1686.8417237351211, Active
+P0098     , Optimized methodical website                        , electronics,472.0878166180368,951.7678026559408, Discontinued
+P0099     , Streamlined impactful access                        , accessories,802.5157654742326,1016.9416622801062, Active
+P0100     , Multi-channeled dynamic throughput                  , electronics,829.1949468226716,1262.73840797684, Active
+P0101     , Progressive asymmetric portal                       , electronics,1047.8676728805317,1146.9469794628535, Active
+P0102     , Self-enabling eco-centric application               , electronics,337.8075004305419,1704.6157277532873, Discontinued
+P0103     , Object-based intermediate time-frame                , electronics,639.0965854709226,1705.2277151127846, Discontinued
+P0104     , Enterprise-wide coherent Internet solution          , electronics,720.6447031142851,1574.2381870435063, Active
+P0105     , Digitized optimal framework                         , electronics,940.780496023066,1181.886115658219, Active
+P0106     , Balanced composite middleware                       , accessories,128.8362243649658,1461.6138009600795, Active
+P0107     , Reduced systematic flexibility                      , electronics,1193.896572093022,1251.186182051069, Active
+P0108     , Team-oriented holistic standardization              , electronics,606.3378556698561,1074.7239708422867, Active
+P0109     , Assimilated local functionalities                   , electronics,393.1075828123696,318.4506004976473, Active
+P0110     , Business-focused dedicated framework                , accessories,1604.269957407315,1479.047100451205, Discontinued
+P0111     , Organic transitional challenge                      , electronics,1376.1675401476557,1495.087108764724, Active
+P0112     , Integrated optimizing function                      , electronics,1721.1607030002417,1164.0974391726738, Active
+P0113     , Integrated explicit artificial intelligence         , electronics,450.4403412309753,1494.7256344111556, Active
+P0114     , Devolved value-added encoding                       , electronics,699.0967628557487,1207.5241121582396, Discontinued
+P0115     , Streamlined client-server function                  , electronics,1081.4513482070083,451.3634117904671, Discontinued
+P0116     , Advanced directional complexity                     , electronics,1177.971373761971,565.7339164459274, Active
+P0117     , Self-enabling mobile Graphical User Interface       , electronics,246.58171009029545,464.80150350423605, Active
+P0118     , Mandatory 6thgeneration middleware                  , electronics,422.3806616016437,741.3404414875589, Active
+P0119     , Balanced mobile budgetary management                , electronics,293.8203548883876,166.23732492739717, Active
+P0120     , Universal responsive paradigm                       , electronics,380.69183971697566,1151.031603374418, Active
