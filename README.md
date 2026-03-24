@@ -1,6 +1,6 @@
 # B2B Sales Analytics Project 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an end‑to‑end **data analytics case study** focused on understanding **sales performance, discount behavior, and business stability** using a modern analytics stack.
 
@@ -11,7 +11,7 @@ The final outcome is an **interactive Power BI report** designed for business st
 
 ---
 
-## 🧩 Data Collection
+##  Data Collection
 
 ### 🔹 Synthetic Data Generation (Python)
 
@@ -37,7 +37,7 @@ The data was generated to closely resemble **production‑scale business data**.
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+##  Data Cleaning & Preprocessing
 
 ### 🔹 Tools Used
 
@@ -56,11 +56,11 @@ The data was generated to closely resemble **production‑scale business data**.
 * Ensuring referential integrity between tables
 * Creating derived fields required for analysis
 
-📌 The complete data cleaning logic is documented in the **attached Jupyter Notebook (.ipynb)**.
+ The complete data cleaning logic is documented in the **attached Jupyter Notebook (.ipynb)**.
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 ### 🔹 Tool Used
 
@@ -84,7 +84,7 @@ EDA results were used to **shape KPIs and visuals** in the Power BI report.
 
 ---
 
-## 📈 Power BI Reporting
+##  Power BI Reporting
 
 ### 🔹 Data Model
 
@@ -134,7 +134,7 @@ The report enables **data‑driven decision making**for management.
 
 ---
 
-## ❓ Business Questions Addressed
+##  Business Questions Addressed
 
 1. **Are discounts effectively increasing sales volume, or are they eroding profit?**
 2. **Which products contribute most to discount leakage (80/20 analysis)?**
@@ -145,9 +145,9 @@ Each question is answered through a combination of **KPIs, trend analysis, and v
 
 ---
 
-## ✅ Recommendations
+##  Recommendations
 
-### 📌 Business Status
+###  Business Status
 
 Based on the analysis:
 
@@ -155,7 +155,7 @@ Based on the analysis:
 * Discounting is controlled and mostly effective
 * No major structural risks were identified
 
-### 🚀 Strategic Recommendation
+###  Strategic Recommendation
 
 **The business is stable and well‑positioned for expansion.**
 
@@ -168,7 +168,7 @@ Suggested next steps:
 
 ---
 
-## 🧠 Conclusion
+##  Conclusion
 
 This project demonstrates a **full analytics lifecycle**, from raw data creation to executive‑ready insights, showcasing strong skills in:
 
@@ -179,7 +179,7 @@ This project demonstrates a **full analytics lifecycle**, from raw data creation
 
 ---
 
-📁 **Artifacts Included**
+ **Artifacts Included**
 
 * Python data generation script
 * Data cleaning Jupyter Notebook (.ipynb)
